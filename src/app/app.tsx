@@ -95,7 +95,8 @@ function App() {
     <main>
       <header className="pt-16 z-10 relative max-w-screen-lg xl:max-w-screen-xl mx-auto">
         <h3 className="text-2xl sm:text-4xl leading-none font-bold tracking-tight text-purple-200">
-          <span className="text-[gold] opacity-75">Vital</span> @ Vite Template
+          <span className="text-[gold] opacity-75">GitHub Log Graph</span> @
+          Vite Template
         </h3>
         <h1 className="text-6xl lg:text-7xl leading-none font-extrabold tracking-tight mb-8 sm:mb-10 text-purple-400">
           React + TypeScript + Tailwind
@@ -120,10 +121,10 @@ function App() {
       </header>
       <section className="max-w-screen-lg xl:max-w-screen-xl mx-auto">
         <div className="sm:flex sm:space-x-6 space-y-4 sm:space-y-0 items-center">
-          <a href="https://github.com/jvidalv/vital">
+          <a href="https://github.com/piotrpdev/github-log-graph">
             <Button>Visit on Github</Button>
           </a>
-          <CopyButton text="npx degit jvidalv/vital my-app" />
+          <CopyButton text="npx degit piotrpdev/github-log-graph my-app" />
         </div>
       </section>
       <section className="max-w-screen-lg xl:max-w-screen-xl mx-auto grid grid-cols-10 gap-4">
@@ -139,7 +140,7 @@ function App() {
         ))}
       </section>
       <footer className="pb-16 max-w-screen-lg xl:max-w-screen-xl mx-auto text-center sm:text-right text-gray-400 font-bold">
-        <a href="https://github.com/jvidalv">
+        <a href="https://github.com/piotrpdev">
           Josep Vidal @ {new Date().getFullYear()}
         </a>
       </footer>

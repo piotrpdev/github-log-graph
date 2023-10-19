@@ -1,16 +1,16 @@
 {
-  "name": "vital",
+  "name": "github-log-graph",
   "version": "1.0.0",
   "description": "Starter template for Vite with React (TypeScript). Supports Tailwind. Vitest and @react/testing-library configured and ready to go. Also ESLint, Prettier, Husky, Commit-lint and Atomic Design for components.",
-  "homepage": "https://github.com/jvidalv/vital#readme",
+  "homepage": "https://github.com/piotrpdev/github-log-graph#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jvidalv/vital.git"
+    "url": "git+https://github.com/piotrpdev/github-log-graph.git"
   },
   "author": "Josep Vidal <josepvidalvidal@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jvidalv/vital/issues"
+    "url": "https://github.com/piotrpdev/github-log-graph/issues"
   },
   "keywords": [
     "react",
